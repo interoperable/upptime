@@ -1,7 +1,6 @@
 # Change these first
 owner: interoperable # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-
 sites:
   - name: Google
     url: https://www.google.com
@@ -28,11 +27,12 @@ sites:
     url: https://interoperable.systems
   - name: Synology Diskstation Adiminstration CLI Guide PDF
     url: https://global.download.synology.com/download/Document/Software/DeveloperGuide/Firmware/DSM/All/enu/Synology_DiskStation_Administration_CLI_Guide.pdf
-
+assignees:
+ - ppouliot
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.interoperable.systems
+  cname: upptime.interoperable.systems
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
