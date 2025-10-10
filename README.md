@@ -1,4 +1,6 @@
 # [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+<!-- BADGIE TIME -->
+<!-- END BADGIE TIME -->
 
 <!--start: description-->
 
