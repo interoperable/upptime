@@ -1,0 +1,5 @@
+# main.yml
+
+- name: Generate a our ../.upptime.yaml
+  ansible.builtin.template:
+    src: .upttime.yml.j2
