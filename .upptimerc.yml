@@ -11,10 +11,12 @@ sites:
     port: 80
     check: "tcp-ping"
     ipv6: true
+  - name: Plex
+    url: https://plex.tv
   - name: Gravatar.com
-    url: gravatar.com/valiantly040d60ddad
+    url: https://gravatar.com/valiantly040d60ddad
   - name: LinkedIn Profile
-    url: www.linkedin.com/in/peterpouliot
+    url: https://www.linkedin.com/in/peterpouliot
   - name: Cloudflare
     url: https://cloudflare.com
   - name: DockerHub
