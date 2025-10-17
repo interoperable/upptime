@@ -1,15 +1,17 @@
 # [📈 Live Status](https://upptime.interoperable.systems): <!--live status--> **🟧 Partial outage**
 
-<!-- BADGIE TIME -->
-<!-- END BADGIE TIME -->
-
 This repository contains the open-source uptime monitor and status page for [Interoperable Systems](https://interoperable.systems), powered by [Upptime](https://github.com/upptime/upptime).
+<!-- BADGIE TIME -->
 
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
+
+<!-- END BADGIE TIME -->
 [![Uptime CI](https://github.com/interoperable/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/interoperable/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/interoperable/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/interoperable/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/interoperable/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/interoperable/upptime/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/interoperable/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/interoperable/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/interoperable/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/interoperable/upptime/actions?query=workflow%3A%22Summary+CI%22)
+![GitHub deployments](https://img.shields.io/github/deployments/interoperable/uptime/github-pages)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fupptime.interoperable.systems)
 
 
