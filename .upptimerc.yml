@@ -21,6 +21,8 @@ sites:
     url: https://unifi.ui.com
   - name: GitHub-Pages URL
     url: https://interoperable.github.io
+  - name: PPouliot GitHub Pages URL
+    url: https://ppouliot.github.io
   - name: GitLab-Pages URL
     url: https://interoperable.gitlab.io
   - name: interoperable.systems
