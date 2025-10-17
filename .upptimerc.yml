@@ -31,7 +31,6 @@ sites:
     url: https://interoperable.systems
   - name: upptime.interoperable.systems
     url: https://upptime.interoperable.systems
-    
   - name: Synology Diskstation Adiminstration CLI Guide PDF
     url: https://global.download.synology.com/download/Document/Software/DeveloperGuide/Firmware/DSM/All/enu/Synology_DiskStation_Administration_CLI_Guide.pdf
 assignees:
