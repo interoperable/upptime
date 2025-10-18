@@ -1,0 +1,29 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color:rgb(0,192,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(0,128,192);stop-opacity:1" />
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <!-- Dodecahedron group -->
+  <g transform="translate(100, 100)" fill="url(#grad1)" stroke="#fff" stroke-width="2" filter="url(#shadow)">
+    <!-- Main visible faces of the dodecahedron -->
+    <path d="M 0 -70 L 67.2 -21.6 L 41.5 54.3 L -41.5 54.3 L -67.2 -21.6 Z" />
+    <path d="M 67.2 -21.6 L 109.1 -20.6 L 93.4 55.4 L 41.5 54.3 Z" />
+    <path d="M 67.2 -21.6 L 41.5 54.3 L 93.4 55.4 L 109.1 -20.6 L 67.2 -21.6 Z" fill="none" stroke="#fff" stroke-width="2"/>
+  </g>
+
+  <!-- Connection lines representing interoperability -->
+  <g stroke="#fff" stroke-width="3" opacity="0.8">
+    <!-- These lines connect to the hidden parts of the dodecahedron -->
+    <path d="M 100 100 C 130 130, 150 150, 100 170" fill="none" />
+    <path d="M 100 100 C 70 70, 50 50, 100 30" fill="none" />
+    <!-- Additional lines suggesting data flow and connectivity -->
+    <path d="M 100 100 C 140 80, 160 60, 180 50" fill="none" />
+    <path d="M 100 100 C 60 120, 40 140, 20 150" fill="none" />
+  </g>
+</svg>
