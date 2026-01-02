@@ -114,7 +114,7 @@
     "timeMonth": 815,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2026-01-02": 562,
+      "2026-01-02": 577,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -231,7 +231,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-02": 562,
+      "2026-01-02": 577,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -393,7 +393,7 @@
     "timeMonth": 791,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2026-01-02": 562,
+      "2026-01-02": 577,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -525,19 +525,19 @@
     "url": "https://global.download.synology.com/download/Document/Software/DeveloperGuide/Firmware/DSM/All/enu/Synology_DiskStation_Administration_CLI_Guide.pdf",
     "icon": "https://icons.duckduckgo.com/ip3/global.download.synology.com.ico",
     "slug": "synology-diskstation-adiminstration-cli-guide-pdf",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
-    "time": 199,
-    "timeDay": 253,
-    "timeWeek": 129,
-    "timeMonth": 200,
-    "timeYear": 199,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.96%",
+    "time": 198,
+    "timeDay": 167,
+    "timeWeek": 123,
+    "timeMonth": 196,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2026-01-02": 0,
+      "2026-01-02": 15,
       "2025-12-12": 28
     }
   }
