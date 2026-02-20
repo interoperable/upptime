@@ -114,7 +114,7 @@
     "timeMonth": 861,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2026-02-20": 20,
+      "2026-02-20": 1084,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -280,7 +280,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-20": 20,
+      "2026-02-20": 1084,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -436,11 +436,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/interoperable.github.io.ico",
     "slug": "git-hub-pages-url",
     "status": "up",
-    "uptime": "95.21%",
+    "uptime": "95.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.21%",
+    "uptimeYear": "95.23%",
     "time": 122,
     "timeDay": 53,
     "timeWeek": 120,
@@ -492,7 +492,7 @@
     "timeMonth": 650,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2026-02-20": 20,
+      "2026-02-20": 1084,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -653,9 +653,9 @@
     "url": "https://upptime.interoperable.systems",
     "icon": "https://icons.duckduckgo.com/ip3/upptime.interoperable.systems.ico",
     "slug": "upptime-interoperable-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
@@ -665,6 +665,7 @@
     "timeMonth": 247,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2026-02-20": 0,
       "2026-01-28": 19,
       "2025-11-18": 127
     }
