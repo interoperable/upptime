@@ -1,7 +1,7 @@
 url: https://plex.tv
-status: down
-code: 521
-responseTime: 1170
-lastUpdated: 2026-03-27T06:00:19.242Z
+status: up
+code: 200
+responseTime: 845
+lastUpdated: 2026-03-27T06:39:11.970Z
 startTime: 2025-10-17T04:53:17.792Z
 generator: Upptime <https://github.com/upptime/upptime>
