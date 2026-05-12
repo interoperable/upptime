@@ -73,7 +73,7 @@
     "time": 803,
     "timeDay": 859,
     "timeWeek": 918,
-    "timeMonth": 1017,
+    "timeMonth": 1008,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2026-04-24": 60,
@@ -109,19 +109,19 @@
     "url": "https://www.linkedin.com/in/peterpouliot",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "linked-in-profile",
-    "status": "up",
-    "uptime": "0.47%",
-    "uptimeDay": "3.53%",
-    "uptimeWeek": "2.03%",
-    "uptimeMonth": "3.73%",
-    "uptimeYear": "0.47%",
+    "status": "down",
+    "uptime": "0.48%",
+    "uptimeDay": "5.54%",
+    "uptimeWeek": "2.32%",
+    "uptimeMonth": "3.79%",
+    "uptimeYear": "0.48%",
     "time": 952,
-    "timeDay": 899,
-    "timeWeek": 921,
-    "timeMonth": 1007,
+    "timeDay": 884,
+    "timeWeek": 916,
+    "timeMonth": 1004,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2026-05-12": 1316,
+      "2026-05-12": 1317,
       "2026-05-11": 1440,
       "2026-05-10": 1342,
       "2026-05-09": 1421,
@@ -345,7 +345,7 @@
     "time": 567,
     "timeDay": 643,
     "timeWeek": 427,
-    "timeMonth": 523,
+    "timeMonth": 520,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2025-12-05": 28
@@ -368,7 +368,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-12": 1367,
+      "2026-05-12": 1397,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
@@ -592,7 +592,7 @@
     "time": 329,
     "timeDay": 254,
     "timeWeek": 307,
-    "timeMonth": 286,
+    "timeMonth": 287,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2026-01-31": 17,
@@ -613,7 +613,7 @@
     "time": 123,
     "timeDay": 291,
     "timeWeek": 111,
-    "timeMonth": 118,
+    "timeMonth": 113,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2025-10-17": 182,
@@ -640,7 +640,7 @@
     "time": 124,
     "timeDay": 279,
     "timeWeek": 122,
-    "timeMonth": 119,
+    "timeMonth": 116,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -658,10 +658,10 @@
     "time": 676,
     "timeDay": 690,
     "timeWeek": 477,
-    "timeMonth": 528,
+    "timeMonth": 521,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2026-05-12": 1367,
+      "2026-05-12": 1397,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
@@ -888,7 +888,7 @@
     "time": 239,
     "timeDay": 224,
     "timeWeek": 141,
-    "timeMonth": 151,
+    "timeMonth": 149,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2025-11-18": 98
@@ -908,7 +908,7 @@
     "time": 272,
     "timeDay": 368,
     "timeWeek": 148,
-    "timeMonth": 189,
+    "timeMonth": 188,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2026-02-20": 20,
@@ -930,7 +930,7 @@
     "time": 236,
     "timeDay": 184,
     "timeWeek": 156,
-    "timeMonth": 468,
+    "timeMonth": 479,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-12-12": 28
