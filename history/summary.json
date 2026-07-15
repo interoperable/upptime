@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 153,
     "timeDay": 122,
-    "timeWeek": 81,
+    "timeWeek": 80,
     "timeMonth": 78,
     "timeYear": 153,
     "dailyMinutesDown": {
@@ -110,16 +110,16 @@
     "url": "https://www.linkedin.com/in/peterpouliot",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "linked-in-profile",
-    "status": "down",
+    "status": "up",
     "uptime": "0.81%",
-    "uptimeDay": "1.66%",
-    "uptimeWeek": "1.75%",
+    "uptimeDay": "1.70%",
+    "uptimeWeek": "1.76%",
     "uptimeMonth": "2.95%",
     "uptimeYear": "0.81%",
     "time": 918,
-    "timeDay": 1015,
-    "timeWeek": 757,
-    "timeMonth": 752,
+    "timeDay": 1027,
+    "timeWeek": 775,
+    "timeMonth": 757,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2025-11-25": 1424,
@@ -393,7 +393,7 @@
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
-      "2026-07-15": 1379
+      "2026-07-15": 1382
     }
   },
   {
@@ -704,7 +704,7 @@
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1156,
-      "2026-07-15": 1402,
+      "2026-07-15": 1406,
       "2026-07-14": 1440
     }
   },
@@ -966,7 +966,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
-      "2026-07-15": 1402,
+      "2026-07-15": 1406,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
