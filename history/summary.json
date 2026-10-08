@@ -13,7 +13,7 @@
     "time": 138,
     "timeDay": 85,
     "timeWeek": 88,
-    "timeMonth": 82,
+    "timeMonth": 83,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2025-11-25": 15,
@@ -73,7 +73,7 @@
     "time": 962,
     "timeDay": 584,
     "timeWeek": 1057,
-    "timeMonth": 1160,
+    "timeMonth": 1176,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2025-10-22": 16,
@@ -102,7 +102,7 @@
     "time": 401,
     "timeDay": 496,
     "timeWeek": 427,
-    "timeMonth": 425,
+    "timeMonth": 426,
     "timeYear": 401,
     "dailyMinutesDown": {}
   },
@@ -111,16 +111,16 @@
     "url": "https://www.linkedin.com/in/peterpouliot",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "linked-in-profile",
-    "status": "down",
-    "uptime": "51.64%",
-    "uptimeDay": "1.84%",
+    "status": "up",
+    "uptime": "51.61%",
+    "uptimeDay": "1.89%",
     "uptimeWeek": "1.35%",
     "uptimeMonth": "2.06%",
-    "uptimeYear": "51.64%",
+    "uptimeYear": "51.61%",
     "time": 874,
-    "timeDay": 740,
-    "timeWeek": 790,
-    "timeMonth": 744,
+    "timeDay": 765,
+    "timeWeek": 792,
+    "timeMonth": 748,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2026-04-16": 886,
@@ -298,7 +298,7 @@
       "2026-10-03": 1440,
       "2026-10-06": 1414,
       "2026-10-07": 1413,
-      "2026-10-08": 24
+      "2026-10-08": 245
     }
   },
   {
@@ -315,7 +315,7 @@
     "time": 519,
     "timeDay": 115,
     "timeWeek": 247,
-    "timeMonth": 177,
+    "timeMonth": 178,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2025-12-05": 28,
@@ -694,7 +694,7 @@
       "2026-08-10": 1440,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
-      "2026-10-08": 24,
+      "2026-10-08": 246,
       "2026-10-07": 1440
     }
   },
@@ -712,7 +712,7 @@
     "time": 307,
     "timeDay": 343,
     "timeWeek": 351,
-    "timeMonth": 300,
+    "timeMonth": 298,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2025-11-05": 17,
@@ -760,7 +760,7 @@
     "time": 122,
     "timeDay": 300,
     "timeWeek": 172,
-    "timeMonth": 132,
+    "timeMonth": 133,
     "timeYear": 122,
     "dailyMinutesDown": {}
   },
@@ -770,15 +770,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/interoperable.gitlab.io.ico",
     "slug": "git-lab-pages-url",
     "status": "down",
-    "uptime": "1.28%",
+    "uptime": "1.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.28%",
+    "uptimeYear": "1.27%",
     "time": 600,
     "timeDay": 342,
     "timeWeek": 462,
-    "timeMonth": 430,
+    "timeMonth": 434,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2025-11-18": 1165,
@@ -956,7 +956,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
-      "2026-10-08": 24,
+      "2026-10-08": 246,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
@@ -1177,7 +1177,7 @@
     "time": 271,
     "timeDay": 206,
     "timeWeek": 218,
-    "timeMonth": 208,
+    "timeMonth": 211,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-11-18": 127,
@@ -1199,7 +1199,7 @@
     "time": 240,
     "timeDay": 99,
     "timeWeek": 137,
-    "timeMonth": 120,
+    "timeMonth": 119,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-12-12": 28,
